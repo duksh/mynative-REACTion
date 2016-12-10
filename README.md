@@ -1,2 +1,2 @@
 # mynative-REACTion
-Understanding REACT Native for cross platform mobile app development
+Understanding REACT Native https://facebook.github.io/react-native/ for cross platform mobile app development
